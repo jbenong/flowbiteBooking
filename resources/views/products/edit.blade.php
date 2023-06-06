@@ -34,12 +34,12 @@
                     <input type="text" name="name" value="{{ $product->name }}" placeholder="Name">
                 </div>
             </div>
-            <div>
+            <!-- <div>
                 <div>
                     <strong>Detail:</strong>
                     <textarea style="height:150px" name="detail" placeholder="Detail">{{ $product->detail }}</textarea>
                 </div>
-            </div>
+            </div> -->
             <div>
               <button type="submit">Submit</button>
             </div>

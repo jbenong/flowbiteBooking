@@ -33,12 +33,12 @@
                 <input type="text" name="name" placeholder="Name">
             </div>
         </div>
-        <div>
+        <!-- <div>
             <div>
                 <strong>Detail:</strong>
                 <textarea style="height:150px" name="detail" placeholder="Detail"></textarea>
             </div>
-        </div>
+        </div> -->
         <div>
                 <button type="submit">Submit</button>
         </div>

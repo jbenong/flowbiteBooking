@@ -19,11 +19,11 @@
                 {{ $product->name }}
             </div>
         </div>
-        <div>
+        <!-- <div>
             <div>
                 <strong>Details:</strong>
                 {{ $product->detail }}
             </div>
-        </div>
+        </div> -->
     </div>
 @endsection
